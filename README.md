@@ -3,11 +3,11 @@
 File Summarizer is a web application that allows users to upload documents and receive summarized versions using a locally deployed Language Model. The backend is built with FastAPI, the frontend with React, and BART is used as the LLM model for document summarization.
 
 ## Table of Contents
+- [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
 
 ## Features
 - Upload documents for summarization
