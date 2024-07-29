@@ -7,6 +7,7 @@ File Summarizer is a web application that allows users to upload documents and r
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 
 ## Features
 - Upload documents for summarization
@@ -78,3 +79,7 @@ File Summarizer is a web application that allows users to upload documents and r
 2. Start the frontend development server as described in the installation steps.
 3. Open your browser and navigate to `http://localhost:8080` to use the application.
 4. Upload a document and get a summarized version.
+
+## Demo
+Here is a demo video of the File Summarizer in action:
+https://www.loom.com/share/fa5f186a2c094939a786f3a631c72e61?sid=45b7a029-3b0d-4337-bda9-9cd44003097c
